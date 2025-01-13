@@ -8,9 +8,6 @@ def run():
     """
     Run the crew to fetch Zendesk tickets and generate a summary.
     """
-    # inputs = {
-    #     "user_query": "How many tickets come from July 2024 and how many come from August 2024?",
-    # }
     print("## Welcome to Trip Planner Crew")
     print('-------------------------------')
     inputs = input(
